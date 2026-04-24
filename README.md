@@ -54,7 +54,6 @@ Exploratory analysis of customer behavior, campaign response, and segmentation u
 ## 🧰 Tools & Libraries
 
 - Python  
-- R  
 - Pandas  
 - NumPy  
 - Matplotlib  
