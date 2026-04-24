@@ -28,7 +28,7 @@ Exploratory analysis of used car listings to understand pricing patterns, vehicl
 
 ### ❤️ Heart Disease Analysis
 Exploratory analysis of heart disease data to identify patterns across demographic, lifestyle, and medical indicators.  
-[View Project](./Heart-Disease-Analysis/)
+[View Project]([./Heart-Disease-Analysis/](https://github.com/HazemHany77/Data-analysis-projects/blob/a6a80a20abfa74586cb7d6642280a78bbbaec703/Heart%20disease.ipynb))
 
 ### 🛍️ Customer Personality Analysis
 Exploratory analysis of customer behavior, campaign response, and segmentation using feature engineering, hypothesis testing, and RFM analysis.  
