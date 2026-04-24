@@ -8,7 +8,7 @@
 
 ## 📌 About This Repository
 
-This repository contains a collection of data analysis projects covering economics, housing, used cars, healthcare, and customer behavior. Across these projects, I apply data cleaning, missing value treatment, feature engineering, exploratory data analysis, data visualization, and insight generation on real-world datasets.
+This repository contains a collection of data analysis projects using real-world datasets. It reflects my work in data cleaning, exploratory data analysis, feature engineering, visualization, and insight generation.
 
 ---
 
@@ -54,6 +54,7 @@ Exploratory analysis of customer behavior, campaign response, and segmentation u
 ## 🧰 Tools & Libraries
 
 - Python  
+- R  
 - Pandas  
 - NumPy  
 - Matplotlib  
