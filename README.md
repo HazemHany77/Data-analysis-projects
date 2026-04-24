@@ -16,7 +16,7 @@ This repository contains a collection of data analysis projects using real-world
 
 ### 🌍 Global Economic Indicators Analysis
 Exploratory analysis of global economic indicators across countries and time, including GDP, inflation, unemployment, government revenue, tax revenue, and other macroeconomic variables.  
-[View Project](Global Economic Indicators (1).ipynb)
+[View Project]([Global Economic Indicators (1).ipynb](https://github.com/HazemHany77/Data-analysis-projects/blob/49cf1c7b9e96fafc1f7e6bed491c64b255b2720b/Global%20Economic%20Indicators%20(1).ipynb))
 
 ### 🏡 Housing Market Analysis
 Exploratory analysis of housing market data to understand price distribution, area-based differences, and market trends over time.  
